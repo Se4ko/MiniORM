@@ -1,0 +1,12 @@
+E:\Softuni\Databases Advanced - Entity Framework\ADO.NET Advanced\MiniORM\MiniORMProject\bin\Debug\MiniORMProject.exe.config
+E:\Softuni\Databases Advanced - Entity Framework\ADO.NET Advanced\MiniORM\MiniORMProject\bin\Debug\MiniORMProject.exe
+E:\Softuni\Databases Advanced - Entity Framework\ADO.NET Advanced\MiniORM\MiniORMProject\bin\Debug\MiniORMProject.pdb
+E:\Softuni\Databases Advanced - Entity Framework\ADO.NET Advanced\MiniORM\MiniORMProject\obj\Debug\MiniORMProject.csprojResolveAssemblyReference.cache
+E:\Softuni\Databases Advanced - Entity Framework\ADO.NET Advanced\MiniORM\MiniORMProject\obj\Debug\MiniORMProject.exe
+E:\Softuni\Databases Advanced - Entity Framework\ADO.NET Advanced\MiniORM\MiniORMProject\obj\Debug\MiniORMProject.pdb
+E:\Softuni\Databases Advanced - Entity Framework\MiniORM\ADO.NET Advanced\MiniORM\MiniORMProject\bin\Debug\MiniORMProject.exe.config
+E:\Softuni\Databases Advanced - Entity Framework\MiniORM\ADO.NET Advanced\MiniORM\MiniORMProject\obj\Debug\MiniORMProject.exe
+E:\Softuni\Databases Advanced - Entity Framework\MiniORM\ADO.NET Advanced\MiniORM\MiniORMProject\obj\Debug\MiniORMProject.pdb
+E:\Softuni\Databases Advanced - Entity Framework\MiniORM\ADO.NET Advanced\MiniORM\MiniORMProject\bin\Debug\MiniORMProject.exe
+E:\Softuni\Databases Advanced - Entity Framework\MiniORM\ADO.NET Advanced\MiniORM\MiniORMProject\bin\Debug\MiniORMProject.pdb
+E:\Softuni\Databases Advanced - Entity Framework\MiniORM\ADO.NET Advanced\MiniORM\MiniORMProject\obj\Debug\MiniORMProject.csprojResolveAssemblyReference.cache
